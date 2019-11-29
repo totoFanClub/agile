@@ -8,4 +8,4 @@ script:
   - apt-get update -qy
   - apt-get install -y python-dev python-pip
   - pip install -r requirments.txt
-  - python HelloPython.py test
+  - python HelloPython.py
